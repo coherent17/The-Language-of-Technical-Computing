@@ -1,2 +1,3 @@
-x=4
-print(id(x))
+import keyword
+
+print(keyword.kwlist)
